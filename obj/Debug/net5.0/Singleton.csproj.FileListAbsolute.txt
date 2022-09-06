@@ -1,0 +1,16 @@
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.exe
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.deps.json
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.dll
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\bin\Debug\net5.0\Singleton.pdb
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.dll
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\refint\Singleton.dll
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.pdb
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
+D:\Gean\Projetos\DesignPatterns\Singleton\Singleton\Singleton\obj\Debug\net5.0\ref\Singleton.dll
